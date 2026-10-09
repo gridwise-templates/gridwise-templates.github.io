@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gridwise-templates.github.io/sitemap.xml
